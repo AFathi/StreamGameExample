@@ -187,7 +187,7 @@
 			children = (
 				FB45C86220A8E5A400F97588 /* LFLiveKit.xcodeproj */,
 				FB45C85C20A8E59B00F97588 /* ARVideoKit.xcodeproj */,
-				FBD59E2B20A764570080A7EC /* Snake_Game */,
+				FBD59E2B20A764570080A7EC /* SnakeGame */,
 				FBD59E2A20A764570080A7EC /* Products */,
 				FBD59E7720A767570080A7EC /* Frameworks */,
 			);
@@ -201,7 +201,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		FBD59E2B20A764570080A7EC /* Snake_Game */ = {
+		FBD59E2B20A764570080A7EC /* SnakeGame */ = {
 			isa = PBXGroup;
 			children = (
 				FBD59E2C20A764570080A7EC /* AppDelegate.swift */,
@@ -212,7 +212,7 @@
 				FBD59E4320A766000080A7EC /* Game Assets */,
 				FBD59E3820A764590080A7EC /* Info.plist */,
 			);
-			path = Snake_Game;
+			path = SnakeGame;
 			sourceTree = "<group>";
 		};
 		FBD59E4320A766000080A7EC /* Game Assets */ = {
